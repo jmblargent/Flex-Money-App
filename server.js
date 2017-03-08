@@ -1,3 +1,5 @@
+//I got this from http://www.javascriptpoint.com/access-mssql-nodejs-tutorial/
+
 var express = require('express');
 var app = express();
 var sql = require("mssql");
